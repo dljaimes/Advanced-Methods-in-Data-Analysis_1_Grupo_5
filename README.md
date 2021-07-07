@@ -1,4 +1,4 @@
-# Advanced-Methods-in-Data-Analysis_Time-Series-Analysis_Leonardo
+# Advanced-Methods-in-Data-Analysis:Time-Series-Analysis
 Solución  Exercise 02 (E2)
 
 Time Series Analysis¶
