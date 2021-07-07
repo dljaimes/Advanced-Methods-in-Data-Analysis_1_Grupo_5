@@ -3,9 +3,9 @@ Solución  Exercise 02 (E2)
 
 # Time Series Analysis¶
 
-The result will be evaluated from a report in Jupyter, which must be found in a public GitHub repository.
-The project must be carried out in the groups assigned in class.
-Use clear and rigorous procedures.
+##### The result will be evaluated from a report in Jupyter, which must be found in a public GitHub repository.
+##### The project must be carried out in the groups assigned in class.
+##### Use clear and rigorous procedures.
 
 Due date: July 11, 2021, 11:59 pm, through Sicua + (Upload repository link)
 
