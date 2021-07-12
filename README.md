@@ -1,6 +1,8 @@
 ## Advanced-Methods-in-Data-Analysis
 
-## Repositorio con las soluciones a los tareas asignadas en la clase de Modelos avanzados pare el análisis de Datos 1 - Grupo 5
+### Repositorio con las soluciones a los tareas asignadas en la clase de Modelos avanzados pare el análisis de Datos 1 - Grupo 5.
+
+### En este se encuentran las soluciones a los ejercicios E2, E3 y E5.
 
 ### Integrantes:
 
