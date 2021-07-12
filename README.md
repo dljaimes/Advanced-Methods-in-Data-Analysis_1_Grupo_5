@@ -1,20 +1,12 @@
 ## Advanced-Methods-in-Data-Analysis:Time-Series-Analysis
 Solución  Exercise 02 (E2)
 
-# Time Series Analysis¶
+# Reporsitorio con las soluciones a los tareas asignadas en la clase de Modelos avanzados pare el análisis de Datos 1
 
-##### The result will be evaluated from a report in Jupyter, which must be found in a public GitHub repository.
-##### The project must be carried out in the groups assigned in class.
-##### Use clear and rigorous procedures.
+## Integrantes:
 
-Due date: July 11, 2021, 11:59 pm, through Sicua + (Upload repository link)
-
-# 02.1 Download and explore one series from Google Trends
-
-In your analysis, be sure to answer:
-
-##### Is the time series stationary?
-##### Construct and plot the trend component of the time series
-##### Construct and plot the seasonal component of the time series
-##### Is the detrended time series stationary?
-##### Construct a plot to analyze the autocorrelation
+Denis Leonardo Jaimes Campos   | Código: 202027884.
+Esteban López Zúñiga           | Código: 200914313.
+Oscar Hernando Ayala Nino      | Código: 201920024.
+Sebastián Camilo Camargo Bello | Código: 201014774.
+Sindy Lorena Murcia Florez     | Código: 202028060.
